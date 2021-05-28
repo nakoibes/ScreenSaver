@@ -15,5 +15,6 @@
 #Установка:
 1. Склонировать репозиторий 
 2. Создать виртуальное окружение `virtualenv venv -p python3.9`
-3. Установить зависимости `pip install -r requirements.txt`
-4. Запустить приложение `python main.py`
+3. Активировать виртуальную среду `source venv/bin/activate`
+4. Установить зависимости `pip install -r requirements.txt`
+5. Запустить приложение `python main.py`
